@@ -5,12 +5,12 @@
 邁開腿，管住嘴
 
 - 🔭 **Working :** Software Engineer
-- 🚲 **favourite :** A passion for [biking](https://run.duangfei.org/)    
+- 🚲 **favourite :** A passion for [biking](https://strava.ichenprocin.dsmynas.com/)
 
 #### 2021 TODO
 - [x] Hexo Blog Site
 - [x] Raspberry pi pass data of Keiser m3i to Rouvy
-- [ ] My workout page
+- [x] My workout page
 - [ ] Reading list widget
 <!--
 **VHCC/VHCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
