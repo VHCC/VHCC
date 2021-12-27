@@ -11,7 +11,11 @@
 - [x] Hexo Blog Site
 - [x] Raspberry pi pass data of Keiser m3i to Rouvy
 - [x] My workout page
+- [ ] DNS Server ft. Angular
+  - [x] api Server
+  - [ ] i18n 
 - [ ] Reading list widget
+- [ ] 
 <!--
 **VHCC/VHCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
