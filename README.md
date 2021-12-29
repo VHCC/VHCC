@@ -13,7 +13,10 @@
 - [x] My workout page
 - [ ] DNS Server ft. Angular
   - [x] api Server
+  - [x] DrawableView
+  - [ ] Countdown progress bar
   - [ ] i18n 
+  - [ ] api interaction
 - [ ] Reading list widget
 - [ ] 
 <!--
