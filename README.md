@@ -18,7 +18,9 @@
   - [ ] i18n 
   - [ ] api interaction
 - [ ] Reading list widget
-- [ ] 
+  - [ ] IDEA check
+- [ ] NFT
+  - [ ] smart-contract
 <!--
 **VHCC/VHCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
