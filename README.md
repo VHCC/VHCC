@@ -11,6 +11,7 @@
 - [x] Hexo Blog Site
 - [x] Raspberry pi pass data of Keiser m3i to Rouvy
 - [x] My workout page
+  - [x] Add elevation field 
 - [ ] DNS Server ft. Angular
   - [x] api Server
   - [x] DrawableView
