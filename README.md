@@ -18,8 +18,8 @@
   - [ ] Countdown progress bar
   - [ ] i18n 
   - [ ] api interaction
-- [ ] Reading list widget
-  - [ ] IDEA check
+- [x] Reading list widget
+  - [x] IDEA check - Notion
 - [ ] NFT
   - [ ] smart-contract
 <!--
