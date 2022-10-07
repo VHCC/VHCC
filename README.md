@@ -7,6 +7,9 @@
 - 🔭 **Working :** Software Engineer
 - 🚲 **favourite :** A passion for [biking](https://strava.ichenprocin.dsmynas.com/)
 
+#### 2022 TODO
+- [ ] GraphQL
+
 #### 2021 TODO
 - [x] Hexo Blog Site
 - [x] Raspberry pi pass data of Keiser m3i to Rouvy
@@ -22,6 +25,7 @@
   - [x] IDEA check - Notion
 - [ ] NFT
   - [ ] smart-contract
+
 <!--
 **VHCC/VHCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
