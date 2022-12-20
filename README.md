@@ -11,6 +11,9 @@
 
 #### 2022 TODO
 - [ ] GraphQL
+- [x] Jenkins Slave Server
+- [x] K8s-Cluster
+- [x] frps-everyWhere   
 
 #### 2021 TODO
 - [x] Hexo Blog Site
