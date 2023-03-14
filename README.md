@@ -9,6 +9,9 @@
 - 🔭 **Working :** Software Engineer
 - 🚲 **favourite :** A passion for [biking](https://strava.ichenprocin.dsmynas.com/)
 
+#### 2023 TODO
+- [ ] Netty 
+
 #### 2022 TODO
 - [ ] GraphQL
 - [x] Jenkins Slave Server
