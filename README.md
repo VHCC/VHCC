@@ -11,6 +11,7 @@
 
 #### 2023 TODO
 - [ ] Netty 
+- [x] Eureka
 
 #### 2022 TODO
 - [ ] GraphQL
