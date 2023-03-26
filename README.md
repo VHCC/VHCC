@@ -10,6 +10,8 @@
 - 🚲 **favourite :** A passion for [biking](https://strava.ichenprocin.dsmynas.com/)
 
 #### 2023 TODO
+- [ ] Cassandra 
+- [ ] Mybatis
 - [ ] zipkin
 - [ ] Netty 
 - [x] Eureka
