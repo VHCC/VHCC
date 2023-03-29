@@ -13,12 +13,12 @@
 - [ ] kafka 
 - [ ] Cassandra 
 - [ ] Mybatis
-- [ ] zipkin
+- [x] Zipkin
 - [ ] Netty 
 - [x] Eureka
 
 #### 2022 TODO
-- [ ] GraphQL
+- [x] GraphQL (done in 2023Q1)
 - [x] Jenkins Slave Server
 - [x] K8s-Cluster
 - [x] frps-everyWhere   
