@@ -10,6 +10,7 @@
 - 🚲 **favourite :** A passion for [biking](https://strava.ichenprocin.dsmynas.com/)
 
 #### 2023 TODO
+- [x] APM
 - [ ] kafka 
 - [ ] Cassandra 
 - [ ] Mybatis
