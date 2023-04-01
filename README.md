@@ -11,7 +11,8 @@
 
 #### 2023 TODO
 - [x] ASM(Application Security Management) Integrate
-- [ ] jacoco
+- [x] datadog CI-Visibility
+- [x] jacocoReport
 - [x] Datadog APM
 - [ ] kafka 
 - [ ] Cassandra 
