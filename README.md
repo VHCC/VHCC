@@ -10,6 +10,11 @@
 - 🚲 **favourite :** A passion for [biking](https://strava.ichenprocin.dsmynas.com/)
 
 #### 2023 TODO
+- Quality
+  - [ ] SonarQube
+  - [ ] JProfiler
+- [ ] Spring Security Oauth
+- [ ] Jhipster
 - [x] ASM(Application Security Management) Integrate
 - [x] datadog CI-Visibility
 - [x] jacocoReport
