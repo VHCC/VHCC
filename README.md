@@ -21,7 +21,7 @@
 - [x] jacocoReport
 - [x] Datadog APM
 - [ ] kafka 
-- [ ] Cassandra 
+- [x] Cassandra cluster
 - [ ] Mybatis
 - [x] Zipkin
 - [ ] Netty 
