@@ -10,7 +10,8 @@
 - 🚲 **favourite :** A passion for [biking](https://strava.ichenprocin.dsmynas.com/)
 
 #### 2024 TODO
-- [] Google Eearth Engine
+- [ ] Google Eearth Engine
+- [ ] ChatGPT API
 
 #### 2023 TODO
 - [x] Spring Cloud Config
