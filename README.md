@@ -12,6 +12,7 @@
 #### 2024 TODO
 - [ ] Google Eearth Engine
 - [ ] ChatGPT API
+- [ ] Explore C/C++
 
 #### 2023 TODO
 - [x] Spring Cloud Config
