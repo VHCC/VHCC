@@ -13,6 +13,7 @@
 - [ ] Google Eearth Engine
 - [ ] ChatGPT API
 - [ ] Explore C/C++
+- [ ] K8s Certification
 
 #### 2023 TODO
 - [x] Spring Cloud Config
