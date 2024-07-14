@@ -14,7 +14,8 @@
 - [ ] ChatGPT API
 - [ ] Explore C/C++
 - [ ] K8s Certification
-
+  - [ ] CKA
+  - [ ] CKAD
 #### 2023 TODO
 - [x] Spring Cloud Config
 - Quality
