@@ -13,9 +13,16 @@
 - [ ] Google Eearth Engine
 - [ ] ChatGPT API
 - [ ] Explore C/C++
-- [ ] K8s Certification
-  - [ ] CKA
+- K8s Certification
+  - [x] CKA - completion 2024/08
   - [ ] CKAD
+- AWS Certification
+  - [ ] AWS Certified Cloud Practitioner
+  - [ ] AWS Certified Solutions Architect - Associate
+  - [ ] AWS Certified SysOps Administrator – Associate
+  - [ ] AWS Certified Developer – Associate
+  - [ ] AWS Certified Solutions Architect – Professional
+  - [ ] AWS Certified DevOps Engineer – Professional
 #### 2023 TODO
 - [x] Spring Cloud Config
 - Quality
