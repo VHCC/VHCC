@@ -15,7 +15,9 @@
 - [ ] Explore C/C++
 - K8s Certification
   - [x] CKA - completion 2024/08
-  - [ ] CKAD
+  - [x] CKAD - completion 2024/08
+- LLM
+  - [x] Ollama  
 - AWS Certification
   - [ ] AWS Certified Cloud Practitioner
   - [ ] AWS Certified Solutions Architect - Associate
