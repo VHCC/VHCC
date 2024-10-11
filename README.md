@@ -7,7 +7,7 @@
 邁開腿，管住嘴
 
 - 🔭 **Working :** Software Engineer
-- 🚲 **favourite :** A passion for [biking](https://strava.ichenprocin.dsmynas.com/)
+- 🚲 **favourite :** A passion for [biking](https://istrava.ichenprocin.dsmynas.com/)
 
 #### 2024 TODO
 - [ ] Google Eearth Engine
