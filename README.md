@@ -17,7 +17,9 @@
   - [x] CKA - completion 2024/08
   - [x] CKAD - completion 2024/08
 - LLM
-  - [x] Ollama  
+  - [x] Ollama
+- OpenStack
+  - [x] Build up
 - AWS Certification
   - [ ] AWS Certified Cloud Practitioner
   - [ ] AWS Certified Solutions Architect - Associate
