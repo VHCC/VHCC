@@ -10,6 +10,8 @@
 - 🚲 **favourite :** A passion for [biking](https://istrava.ichenprocin.dsmynas.com/)
 
 #### 2024 TODO
+- PaaS
+  - [ ] caprover
 - [ ] Google Eearth Engine
 - [ ] ChatGPT API
 - [ ] Explore C/C++
@@ -30,7 +32,7 @@
 #### 2023 TODO
 - [x] Spring Cloud Config
 - Quality
-  - [ ] SonarQube
+  - [x] SonarQube
   - [ ] JProfiler
 - [ ] Spring Security Oauth
 - [ ] Jhipster
