@@ -10,8 +10,13 @@
 - 🚲 **favourite :** A passion for [biking](https://istrava.ichenprocin.dsmynas.com/)
 
 #### 2024 TODO
+- Grafana + Loki + Promtail @ k8s
+  - [x] LogQL
+  - [x] Grafana
+  - [x] Loki
+  - [x] Promtail
 - PaaS
-  - [ ] caprover
+  - [x] caprover
 - [ ] Google Eearth Engine
 - [ ] ChatGPT API
 - [ ] Explore C/C++
