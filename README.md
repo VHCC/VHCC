@@ -1,24 +1,53 @@
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=vhcc&theme=onedark)](https://vhcc.github.io/)
+!-->
+
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vhcc&theme=dark&currStreakNum=2FD3EB&date_format=[Y.]n.j)](https://vhcc.github.io/)
+!-->
+
+<!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vhcc&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+!-->
+
+<!--
+![Metrics](https://metrics.lecoq.io/vhcc?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FTaipei)
+!-->
+
 ### Hi 👋, I'm iChen <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-taiwan_1f1f9-1f1fc.png" width="30">
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 [![Instagram Badge](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=c13584&label=r99521320&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dinstagram%26queryKey%3Dchawyehsu&logo=instagram&logoColor=white&color=282c34&longCache=true)](https://www.instagram.com/r99521320/)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/r99521320?font=Dancing_Script&border=0&radius=20&theme=dark)
 
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhcc&show_icons=true&theme=dark)](https://vhcc.github.io/)
+!-->
 邁開腿，管住嘴
 
 - 🔭 **Working :** Software Engineer
 - 🚲 **favourite :** A passion for [biking](https://istrava.ichenprocin.dsmynas.com/)
 
 #### 2024 TODO
+- [x] Python Pycharm
+- [ ] Swagger
+- [ ] pytest
+- [ ] coverage
+- [ ] 
+#### 2024 TODO
 - Grafana + Loki + Promtail @ k8s
   - [x] LogQL
   - [x] Grafana
   - [x] Loki
   - [x] Promtail
+  - [x] nezha
 - PaaS
   - [x] caprover
 - [ ] Google Eearth Engine
-- [ ] ChatGPT API
+- [x] ChatGPT API
 - [ ] Explore C/C++
 - K8s Certification
   - [x] CKA - completion 2024/08
@@ -45,7 +74,7 @@
 - [x] datadog CI-Visibility
 - [x] jacocoReport
 - [x] Datadog APM
-- [ ] kafka 
+- [x] kafka 
 - [x] Cassandra cluster
 - [ ] Mybatis
 - [x] Zipkin
@@ -88,3 +117,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
