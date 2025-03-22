@@ -23,3 +23,5 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Taipei
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://vhcc.github.io/
