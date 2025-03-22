@@ -23,9 +23,10 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/r99521320?font=Dancing_Script&border=0&radius=20&theme=dark)
 
-<!--
+![Metrics](/github-metrics.svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhcc&show_icons=true&theme=dark)](https://vhcc.github.io/)
-!-->
+
 邁開腿，管住嘴
 
 - 🔭 **Working :** Software Engineer
@@ -36,7 +37,6 @@
 - [ ] Swagger
 - [ ] pytest
 - [ ] coverage
-- [ ] 
 #### 2024 TODO
 - Grafana + Loki + Promtail @ k8s
   - [x] LogQL
@@ -102,6 +102,8 @@
   - [x] IDEA check - Notion
 - [ ] NFT
   - [ ] smart-contract
+
+
 
 <!--
 **VHCC/VHCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
