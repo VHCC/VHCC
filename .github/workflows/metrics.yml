@@ -24,7 +24,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Taipei
           
-      - name: Succinct report
+      - name: Gen Google Speed Page
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.pagespeed.svg
@@ -34,7 +34,7 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://vhcc.github.io/
 
-      - name: Most used (with details)
+      - name: Lang Most used (with details)
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.details.svg
