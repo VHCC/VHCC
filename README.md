@@ -27,6 +27,8 @@
 
 ![VHCC](/metrics.plugin.pagespeed.svg)
 
+![VHCC](/metrics.plugin.languages.details.svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhcc&show_icons=true&theme=dark)](https://vhcc.github.io/)
 
 邁開腿，管住嘴
