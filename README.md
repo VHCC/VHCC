@@ -36,7 +36,7 @@
 - 🔭 **Working :** Software Engineer
 - 🚲 **favourite :** A passion for [biking](https://istrava.ichenprocin.dsmynas.com/)
 
-#### 2024 TODO
+#### 2025 TODO
 - [x] Python Pycharm
 - [ ] Swagger
 - [ ] pytest
